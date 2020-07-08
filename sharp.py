@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-imagedata_original = cv2.imread('three.png')
+imagedata_original = cv2.imread('image.png')
 
 cv2.imshow('original image' , imagedata_original)
 cv2.waitKey(0)
